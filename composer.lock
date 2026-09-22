@@ -1,0 +1,14 @@
+{
+    "_readme": [],
+    "packages": [
+        {
+            "name": "guzzlehttp/guzzle",
+            "version": "6.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/guzzle.git",
+                "reference": "60e32f41073bc137b4071609187f230d31393d40"
+            }
+        }
+    ]
+}
